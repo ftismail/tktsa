@@ -1,0 +1,12 @@
+.navbar{
+    background-color:#124559!important ;
+    width: 100%;
+}
+.navbar .container-fluid{
+}
+.navbar a {
+    color: #f2f2f2;
+}
+.navbar a:hover {
+    color: #aec3b0;
+}
